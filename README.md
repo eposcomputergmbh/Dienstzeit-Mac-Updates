@@ -4,7 +4,7 @@ Dieses öffentliche Repository verteilt die signierten Mac-App-Pakete und Releas
 
 ## Download und Erstinstallation
 
-Freigegebene Pakete erscheinen unter [Releases](https://github.com/eposcomputergmbh/Dienstzeit-Mac-Updates/releases). Für die erste Installation das ZIP entpacken und `DienstzeitMac.app` nach `~/Applications` kopieren. Die App muss dem ausführenden Benutzer gehören, damit spätere Updates ohne macOS-Administratorfreigabe möglich sind.
+Freigegebene Pakete erscheinen unter [aktuellem Release](https://github.com/eposcomputergmbh/Dienstzeit-Mac-Updates/releases/latest). Für die erste Installation das ZIP entpacken und `DienstzeitMac.app` nach `~/Applications` kopieren. Die App muss dem ausführenden Benutzer gehören, damit spätere Updates ohne macOS-Administratorfreigabe möglich sind.
 
 ## Updates
 
@@ -12,4 +12,4 @@ Die Mac-App prüft alle 24 Stunden auf eine neue Version. Der Hinweis mit dem Bu
 
 Der Updatefeed wird mit einem vollständig geprüften stabilen Release veröffentlicht: [appcast.xml](https://github.com/eposcomputergmbh/Dienstzeit-Mac-Updates/releases/latest/download/appcast.xml).
 
-Noch wurde kein signiertes App-Paket veröffentlicht; der Feed wird mit dem ersten Release verfügbar.
+Die signierte und von Apple notarisierte App ist für macOS 15 oder neuer verfügbar. Das Paket enthält Apple-Silicon- und Intel-Versionen.
